@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "discord": "https://deno.land/x/discordeno@v9.0.1/mod.ts",
+    "loadenv": "https://deno.land/x/dotenv@v0.5.0/load.ts"
+  }
+}
